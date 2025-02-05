@@ -1,0 +1,4 @@
+commit - used by "git commit -m "message"", uses messages to identify different commits. A commit is simply a snapshot of a project at a specific time.
+branch - branches are pointers to specific commits - create using "git branch "name"" and switch between branches using "git checkout "name""
+merge - combines the current branch with a target branch into a new commit. uses "git merge "target""
+
